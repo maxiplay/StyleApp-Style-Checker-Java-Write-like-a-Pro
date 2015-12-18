@@ -1,6 +1,7 @@
 # StyleApp-Style-Checker-Java-Write-like-a-Pro
 ## Basic Description
-A style checking library that checks whether your writing is flabby or lean. This library also can identify which parts of your writing are flabby. 
+A style checking library that checks whether your writing is flabby or lean. This library is a clone of the popular online style checker called The Writer's Diet. You can test the Writer's Diet out here and compare the results to my program. 
+
 ## UML Diagram
 ![UML diagram of StyleApp class](/writersDietUML.png?raw=true "StyleApp UML Diagram")
 ## How to use it
