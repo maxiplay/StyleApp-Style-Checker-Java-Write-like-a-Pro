@@ -18,8 +18,8 @@ You can chuck text into the program and it will spit out some results. This prog
 
 This is how you put text into the program. You can chuck words, sentences, paragraphs, and even entire books into the program. 
 ```java
-writediet.runProgram("here is some text");
-writediet.printResults();
+styleapp.runProgram("here is some text");
+styleapp.printResults();
 ```
 
 Here are the results for the above code: 
@@ -33,8 +33,8 @@ Junk: 		0.00 	 0.0 	Lean
 
 Here is a more complex example with very flabby style:
 ```java
-writediet.runProgram("This was a not so good revolution of disolution in this of was is a textualization. Here's some very long unwieldy convolution of text that will unbelievably get a really bad score that this will show up as in the results.");
-writediet.printResults();
+styleapp.runProgram("This was a not so good revolution of disolution in this of was is a textualization. Here's some very long unwieldy convolution of text that will unbelievably get a really bad score that this will show up as in the results.");
+styleapp.printResults();
 ```
 
 And here is the output for that code: 
